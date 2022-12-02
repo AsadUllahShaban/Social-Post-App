@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851996754289",
+    "project_id": "post-social-app",
+    "storage_bucket": "post-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851996754289:android:2656a7578233a128f676d0",
+        "android_client_info": {
+          "package_name": "com.example.postsocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851996754289-6uosb35o5vois5lueul8e08fq4pdursj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6J_oMB6ZGuePUgpxDC9KHygEdS_I0IJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851996754289-6uosb35o5vois5lueul8e08fq4pdursj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
